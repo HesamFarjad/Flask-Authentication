@@ -30,3 +30,11 @@ Usage
 Notes
 * The secret key for Flask sessions is stored securely. Ensure to replace 'secret-key-goes-here' with your own secret key in app.py.
 * This application uses SQLite as the database. For production use, consider using a more robust database like PostgreSQL or MySQL.
+
+
+
+<img width="1440" alt="Screenshot 2024-05-10 at 11 41 40" src="https://github.com/HesamFarjad/Flask-Authentication/assets/81914229/e28ebbfd-8a02-486f-80dc-17c53d9ebc1a">
+
+<img width="1440" alt="Screenshot 2024-05-10 at 11 41 46" src="https://github.com/HesamFarjad/Flask-Authentication/assets/81914229/d36f04ac-db75-44df-952b-d8cd62f6c045">
+
+
