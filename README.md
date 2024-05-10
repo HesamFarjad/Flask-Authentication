@@ -22,10 +22,10 @@ Technologies Used
 * SQLite: A lightweight SQL database engine, used for storing user information.
 
 Usage
-1. Clone the repository: git clone https://github.com/your_username/your_repository.git
-2. Install dependencies: pip install -r requirements.txt
-3. Run the Flask application: python app.py
-4. Access the application in your browser at http://localhost:5000
+
+1. Install dependencies: pip install -r requirements.txt
+2. Run the Flask application: python app.py
+3. Access the application in your browser at http://localhost:5000
 
 Notes
 * The secret key for Flask sessions is stored securely. Ensure to replace 'secret-key-goes-here' with your own secret key in app.py.
